@@ -20,4 +20,4 @@ App para quebrar o biscoito e ver qual frase ele tem dentro.
 
 ## 💻 Projeto
 
-Simula um cultura chinesa em quebrar biscoitos e ver qual frase tem dentro.
+App simula um biscoite da cultura chinesa, onde contém frases dentro.
